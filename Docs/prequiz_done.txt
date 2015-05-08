@@ -1,0 +1,65 @@
+Prequiz done
+Adam Smith
+
+1. What is free software?
+	Free software is software in which the software is made available to anyone for the price of nothing.  
+
+2. What is open source software?
+	Open source software is software in which the source code is available to anyone who wants it and can be used for any purpose personal or commercial, also nearly anyone can contribute to the free software to improve upon it.
+
+
+3. What's the difference?
+	Open source may not necessaraly be free and free software may not necessaraly have the code available for example gmail is free but not open source.
+
+
+4. What does copyleft mean?
+	When copyright takes a wrong turn.
+
+
+5. What does permissive mean?
+	I don't know
+
+6. What is a license? What's the difference among them?
+	A license is a document that outlines the terms of use for a piece of software going over what someone can or can not do with the software.
+
+7. When did open source software start?
+	1574 or 1980
+
+8. What were some major accomplishments in free / open source software?
+	Linux/Unix operating system is the one of the biggest open source projects.  OpenGL is one of the most widely used graphics libraries around.  Android is also open source.
+
+
+9. Who were the key players in free / open source software?
+	I don't know.
+
+
+10. How has free / open source software development changed over the decades?
+	New lisences, source control allows more people to work on things, vs like emailing lists.
+
+
+11. Why do folks write open source software?
+	For the betterment of mankind.
+
+
+12. Who produces open source software?
+	Anyone who wants to.
+
+
+13. Who pays for it?
+	Uhhhhhhhh, donators, big companies, viewers like you.
+
+
+14. Who profits from it?
+	Anyone or no one.
+
+
+15. Who is in control of your computer?
+	Whoever has root access. But probably the company that made it.
+
+
+16. What do we give up when we cede control to others? What do we gain?
+	We divert some of the responsibility to others and don't have as much accountability.
+
+
+17. Is it okay for others to decide what you can do with your computer? If so, when?
+	Not really, no.
