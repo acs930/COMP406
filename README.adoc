@@ -2,6 +2,22 @@
 
 == Agenda
 
+=== May 20: Setting up remotes
+
+NOTE: Don't do this in your repo, for the love of `$deity`
+
+Do this
+----
+cd illacceptanything
+git remote add upstream https://github.com/lawrancej/illacceptanything.git
+git pull upstream master
+chmod +x remotes.sh
+./remotes.sh    # Setup remotes
+git remote -v   # Should see a long list
+git fetch --all # Fetch from everybody
+gitk --all &    # See history
+----
+
 === May 18: Try out open source yourself
 
 NOTE: Don't do this in your repo, for the love of `$deity`
