@@ -2,6 +2,23 @@
 
 == Agenda
 
+=== May 27: Practice Branching
+
+----
+cd illacceptanything
+git gui &
+gitk --all &
+----
+
+
+=== May 22: Getting it to build
+
+Have you picked a project yet?
+
+Either way, lets try to get something to build.
+
+http://www.commitlogsfromlastnight.com/[NSFC]
+
 === May 20: Setting up remotes
 
 NOTE: Don't do this in your repo, for the love of `$deity`
@@ -16,6 +33,12 @@ chmod +x remotes.sh
 git remote -v   # Should see a long list
 git fetch --all # Fetch from everybody
 gitk --all &    # See history
+----
+
+Merge in the work of whoever is sitting next to you.
+----
+git merge <remote-name>/master
+git push origin
 ----
 
 === May 18: Try out open source yourself
